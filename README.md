@@ -28,6 +28,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#examples">Examples</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -68,6 +69,9 @@ Binary search algorithm was implemented to make the time complexity of the appli
    ```sh
    python3 index.py 150
    ```
+
+<!-- EXAMPLES -->
+## Examples
 
 
 <!-- CONTACT -->
