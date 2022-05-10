@@ -73,6 +73,7 @@ Binary search algorithm was implemented to make the time complexity of the appli
 <!-- EXAMPLES -->
 ## Examples
 
+![devsavant_example1](https://user-images.githubusercontent.com/51679898/167741780-ff2d94e0-2238-478b-90c1-6130841be49b.png)
 
 <!-- CONTACT -->
 ## Contact
