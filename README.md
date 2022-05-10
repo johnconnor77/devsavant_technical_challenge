@@ -67,7 +67,7 @@ Binary search algorithm was implemented to make the time complexity of the appli
 
 
    ```sh
-   python3 index.py 150
+   python3 main.py 150
    ```
 
 <!-- EXAMPLES -->
